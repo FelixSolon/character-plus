@@ -1,0 +1,12 @@
+{
+  "name": "character-plus",
+  "version": "0.0.1",
+  "description": "Yet another character generator/manager, because all the others annoy me",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Eric Stanulis",
+  "license": "ISC"
+}
